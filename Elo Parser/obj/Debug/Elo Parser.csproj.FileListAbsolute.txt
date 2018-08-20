@@ -1,0 +1,10 @@
+C:\Users\christiana\Documents\Visual Studio 2017\Projects\Elo Parser\Elo Parser\bin\Debug\Elo Parser.exe.config
+C:\Users\christiana\Documents\Visual Studio 2017\Projects\Elo Parser\Elo Parser\bin\Debug\Elo Parser.exe
+C:\Users\christiana\Documents\Visual Studio 2017\Projects\Elo Parser\Elo Parser\bin\Debug\Elo Parser.pdb
+C:\Users\christiana\Documents\Visual Studio 2017\Projects\Elo Parser\Elo Parser\obj\Debug\Elo Parser.csprojAssemblyReference.cache
+C:\Users\christiana\Documents\Visual Studio 2017\Projects\Elo Parser\Elo Parser\obj\Debug\Elo_Parser.EloParser.resources
+C:\Users\christiana\Documents\Visual Studio 2017\Projects\Elo Parser\Elo Parser\obj\Debug\Elo_Parser.Properties.Resources.resources
+C:\Users\christiana\Documents\Visual Studio 2017\Projects\Elo Parser\Elo Parser\obj\Debug\Elo Parser.csproj.GenerateResource.cache
+C:\Users\christiana\Documents\Visual Studio 2017\Projects\Elo Parser\Elo Parser\obj\Debug\Elo Parser.csproj.CoreCompileInputs.cache
+C:\Users\christiana\Documents\Visual Studio 2017\Projects\Elo Parser\Elo Parser\obj\Debug\Elo Parser.exe
+C:\Users\christiana\Documents\Visual Studio 2017\Projects\Elo Parser\Elo Parser\obj\Debug\Elo Parser.pdb

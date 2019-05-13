@@ -7,3 +7,4 @@ C:\Users\christiana\Documents\Visual Studio 2017\Projects\Elo Parser\Elo Parser\
 C:\Users\christiana\Documents\Visual Studio 2017\Projects\Elo Parser\Elo Parser\obj\Release\Elo Parser.csproj.CoreCompileInputs.cache
 C:\Users\christiana\Documents\Visual Studio 2017\Projects\Elo Parser\Elo Parser\obj\Release\Elo Parser.exe
 C:\Users\christiana\Documents\Visual Studio 2017\Projects\Elo Parser\Elo Parser\obj\Release\Elo Parser.pdb
+C:\Users\christiana\Documents\Visual Studio 2017\Projects\Elo Parser\Elo Parser\obj\Release\Elo Parser.csprojAssemblyReference.cache

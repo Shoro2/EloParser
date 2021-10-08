@@ -20,7 +20,7 @@ The tool has an integrated webbrowser that opens https://ltdstats.com/api/player
   Howto:
   
   Nightbot:
-  !commands add !elo $(urlfetch https://ltdstats.com/api/playerInfo?playername=Gela)
+  !commands add !elo $(urlfetch https://ltdstats.com/api/playerInfo?playername=<your playername here>)
   
   Moobot:
   1. Go to your control panel

@@ -11,22 +11,22 @@ Usage:
 5. The elo is parsed in <playername>.txt (in the folder with the .exe
 
 How it works:
-The tool has an integrated webbrowser that opens https://ltdstats.com/api/playerElo?playername=<playername> and parses the element that contains the elo into a txt.
+The tool has an integrated webbrowser that opens https://ltdstats.com/api/playerElo?playername=your name here and parses the element that contains the elo into a txt.
 
   
   
-  If you dont wanna download any software, your twitch bot can $fetchurl https://ltdstats.com/api/playerInfo?playername=<playername> to read your elo.
+  If you dont wanna download any software, your twitch bot can $fetchurl https://ltdstats.com/api/playerInfo?playername=your name here to read your elo.
   
   Howto:
   
   Nightbot:
-  !commands add !elo $(urlfetch https://ltdstats.com/api/playerInfo?playername=<your playername here>)
+  !commands add !elo $(urlfetch https://ltdstats.com/api/playerInfo?playername=your playername here)
   
   Moobot:
   1. Go to your control panel
   2. Commands -> Custom Commands
   3. in the new window select:
-  Response: URL fetch - full (plain) response
-  Url to fetch: https://ltdstats.com/api/playerInfo?playername=<your playername here>
-  URL response type: plain text
-  Request Method: GET
+    Response: URL fetch - full (plain) response
+    Url to fetch: https://ltdstats.com/api/playerInfo?playername=your playername here
+    URL response type: plain text
+    Request Method: GET

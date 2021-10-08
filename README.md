@@ -16,3 +16,17 @@ The tool has an integrated webbrowser that opens https://ltdstats.com/api/player
   
   
   If you dont wanna download any software, your twitch bot can $fetchurl https://ltdstats.com/api/playerInfo?playername=<playername> to read your elo.
+  
+  Howto:
+  
+  Nightbot:
+  !commands add !elo $(urlfetch https://ltdstats.com/api/playerInfo?playername=Gela)
+  
+  Moobot:
+  1. Go to your control panel
+  2. Commands -> Custom Commands
+  3. in the new window select:
+  Response: URL fetch - full (plain) response
+  Url to fetch: https://ltdstats.com/api/playerInfo?playername=<your playername here>
+  URL response type: plain text
+  Request Method: GET

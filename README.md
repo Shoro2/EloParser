@@ -12,3 +12,7 @@ Usage:
 
 How it works:
 The tool has an integrated webbrowser that opens https://ltdstats.com/api/playerElo?playername=<playername> and parses the element that contains the elo into a txt.
+
+  
+  
+  If you dont wanna download any software, your twitch bot can $fetchurl https://ltdstats.com/api/playerInfo?playername=<playername> to read your elo.
